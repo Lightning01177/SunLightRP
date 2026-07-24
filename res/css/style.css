@@ -378,7 +378,7 @@ header .info-server .buttons-info-server .main-button.youtube {
 
 header .info-server .buttons-info-server .main-button.youtube:before {
     content: "";
-    background: url(../images/play.svg) no-repeat;
+    background: url(../images/youtube.svg) no-repeat;
     width: 36px;
     height: 39px;
     background-size: cover;
